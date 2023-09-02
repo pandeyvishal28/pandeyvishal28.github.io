@@ -75,6 +75,7 @@ a:hover {
 .hamburger-menu {
   position: relative;
   display: inline-block;
+  background: rgba(255, 255, 255, 0.3);
 }
 
 .hamburger-icon {
